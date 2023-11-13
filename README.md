@@ -1,8 +1,13 @@
+Deploy DeepLX on Cloudflare.
+
+## Usage
+
+Development
 ```
-npm install
-npm run dev
+npm i && npm run dev
 ```
 
+Deploy
 ```
 npm run deploy
 ```
