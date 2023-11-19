@@ -14,7 +14,7 @@ npm run deploy
 
 <details>
 
-<summary>Alternatively to deploy</summary>
+<summary>Another way to deploy</summary>
 
 
 Open the [Cloudflare dashboard](https://dash.cloudflare.com/), select `Workers & Pages` -> `Create Application` -> `Create Worker` -> `Deploy` -> `Edit Code`, and paste the following code, then click `Save and Deploy`.
