@@ -18,6 +18,8 @@ npm run deploy
 
 <summary>Another way to deploy</summary>
 
-Open the [Cloudflare dashboard](https://dash.cloudflare.com/), select `Workers & Pages` -> `Create Application` -> `Create Worker` -> `Deploy` -> `Edit Code`, and paste [/dist/index.js](https://raw.githubusercontent.com/ifyour/deeplx-for-cloudflare/main/dist/index.js) code, then click `Save and Deploy`.
+<img src="https://images.mingming.dev/file/82d34d2cf7669707d0725.png" width=600>
+
+Open the [Cloudflare dashboard](https://dash.cloudflare.com/), select `Workers & Pages` -> `Create Application` -> `Create Worker` -> `Deploy` -> `Edit Code`, and paste [/dist/index.js](https://github.com/ifyour/deeplx-for-cloudflare/blob/main/dist/index.js) code, then click `Save and Deploy`.
 
 </details>
