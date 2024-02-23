@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "wrangler dev src/index.ts",
-    "deploy": "wrangler deploy --minify src/index.ts"
+    "deploy": "wrangler deploy --minify src/index.ts --outdir dist"
   },
   "dependencies": {
     "@ifyour/deeplx": "^0.1.14",
